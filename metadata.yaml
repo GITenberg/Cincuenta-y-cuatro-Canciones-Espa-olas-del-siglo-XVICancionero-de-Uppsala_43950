@@ -1,0 +1,32 @@
+_repo: Cincuenta-y-cuatro-Canciones-Espa-olas-del-siglo-XVICancionero-de-Uppsala_43950
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43950-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Mitjana, Rafael
+    aliases:
+    - Gordón, Rafael Mitjana y
+    - Gordon, Rafael Mitjana y
+    birthdate: 1869
+    deathdate: 1921
+    gutenberg_agent_id: '42499'
+    url: http://www.gutenberg.org/2009/agents/42499
+description: ''
+gutenberg_issued: '2013-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43950'
+  lccn: '35023431'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Folk songs, Spanish'
+- !lcsh 'Villancicos (Music)'
+- !lcsh 'Ballads, Spanish'
+title: 'Cincuenta y cuatro Canciones Españolas del siglo XVI: Cancionero de Uppsala'
+url: http://www.gutenberg.org/ebooks/43950
